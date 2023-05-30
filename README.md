@@ -7,11 +7,11 @@
 <h6> - dateNaissanec de type Date<br> </h6>
 <h6> - malade de type boolean<br> </h6>
 <h6> - score de type int <br> </h6>
-<img src="Caps/2.PNG">
+<img src="Caps/2.png">
 <h3>3. Configurer l'unité de persistance dans le ficher application.properties </h3>
-<img src="Caps/3.PNG">
+<img src="Caps/3.png">
 <h3>4. Créer l'interface JPA Repository basée sur Spring data</h3>
-<img src="Caps/4.PNG">
+<img src="Caps/4.png">
 <h3>5.  Tester quelques opérations de gestion de patients :<br></h3>
 <h6>   - Ajouter des patients<br> </h6>
 <h6> - Consulter tous les patients<br> </h6>
@@ -19,5 +19,5 @@
 <h6> - Chercher des patients<br> </h6>
 <h6> - Mettre à jour un patient <br> </h6>
 <h6> - supprimer un patient <br> </h6>
-<img src="Caps/5.PNG">
-<img src="Caps/6.PNG">
+<img src="Caps/5.png">
+<img src="Caps/6.png">
